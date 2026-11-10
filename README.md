@@ -1,4 +1,4 @@
-# Portofolio — Rasyid (Web Developer)
+# Portofolio — Rasyid (Junior Website Developer)
 
 Website portofolio pribadi modern dan minimalis yang dirancang untuk menampilkan profil profesional, riwayat pendidikan, portofolio proyek terpilih, dan informasi kontak. Proyek ini dikembangkan dengan fokus pada kode yang bersih (*clean code*), tipografi editorial yang rapi, dan tata letak yang sepenuhnya responsif.
 
@@ -74,7 +74,7 @@ Proyek ini dibuat menggunakan standar web statis murni sehingga tidak memerlukan
 
 ## 👤 Pembuat
 
-- **Nama**: Rasyid
+- **Nama**: Rasyid Indra Cahyo
 - **Institusi**: MAN 2 (Madrasah Aliyah Negeri 2)
 - **Fokus**: Web Development, Frontend Design, & Desain Antarmuka
 
